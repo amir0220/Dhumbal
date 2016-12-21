@@ -1,5 +1,5 @@
 # Dhumbal
-This is Nepali a card game I am working on called "Dhumbal". I am sure you'll find instructions to play this game if you google it. 
+This is a Nepali card game I am working on called "Dhumbal". I am sure you'll find instructions to play this game if you google it. 
 Basically you goal is to reduce the total sum of cards in your hand, and show it at the end if your total is less than 5, and you are
 sure that no other player has their total that's less than or equal to yours. 
 
